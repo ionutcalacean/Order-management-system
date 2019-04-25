@@ -1,0 +1,1 @@
+Clientul test a comandat produsul:test cantitate:1 pret total:150
